@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "Inconsolata",
+    "files.associations": {
+        "cmath": "c",
+        "*.tcc": "c"
+    }
+}
